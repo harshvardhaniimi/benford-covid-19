@@ -1,0 +1,12 @@
+name: covid19benford
+title: covid19benford
+username:
+account: harshvardhan
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3682837
+bundleId: 4638097
+url: https://harshvardhan.shinyapps.io/covid19benford/
+when: 1621955835.29244
+asMultiple: FALSE
+asStatic: FALSE
