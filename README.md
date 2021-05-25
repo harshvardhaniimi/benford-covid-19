@@ -3,6 +3,8 @@ Are COVID-19 numbers reported by countries altered? I test the validity of COVID
 
 Please read my post for the results of analysis. This repository contans scripts for calculating and creating the figures. It also has the codes for the R Shiny app created.
 
+![Country-wise RMSE](/scripts/country.png)
+
 ## Article
 https://www.harsh17.in/blog/is-covid-19-data-tampered
 
